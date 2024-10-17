@@ -1733,7 +1733,7 @@ body.preview-page .demo-showcase .demo-box h6 a {
   z-index: -1;
 }
 .page-wrapper.project-four header {
-  padding: 30px 0;
+  padding: 40px 0;
 }
 .page-wrapper.project-four header .container-fluid {
   padding-left: 50px;
@@ -1781,7 +1781,7 @@ body.preview-page .demo-showcase .demo-box h6 a {
   font-size: 12px;
 }
 .page-wrapper.project-four .page-content {
-  padding-top: 0px;
+  padding-top: 20px;
   padding-bottom: 70px;
   text-align: center;
 }
